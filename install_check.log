@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Rileys-MacBook-Pro.local 18.7.0 Darwin Kernel Version 18.7.0: Tue Jun 22 19:37:08 PDT 2021; root:xnu-4903.278.70~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.20.1 (Apple Git-117)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.0 (2016 Sep 12, compiled Jan 14 2021 20:35:46)
+CURL:	[/usr/bin/curl] curl 7.54.0 (x86_64-apple-darwin18.0) libcurl/7.54.0 LibreSSL/2.6.5 zlib/1.2.11 nghttp2/1.24.1
+NODE:	[/Users/rileyshopmyer/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
